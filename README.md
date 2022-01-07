@@ -3,10 +3,10 @@
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=200&section=header&text=Soilder%20Developer&fontSize=90&fontColor=A5915F)
   
 </div>
-
 <div align="center">
-    <p style="font-size:20px"> :satellite:&nbsp;&nbsp;&nbsp; Tech Stacks &nbsp;&nbsp;&nbsp;:satellite: </p>
+    :satellite:&nbsp;&nbsp;&nbsp; Tech Stacks &nbsp;&nbsp;&nbsp;:satellite: 
 </div><br>
+
 <div align="center">
   Techs that I've used at least once
 <div><br>
