@@ -1,8 +1,7 @@
-##![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=Soilder%20Coder&fontSize=90&fontColor=A5915F)
+:fire: ![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=Soilder%20Coder&fontSize=90&fontColor=A5915F):fire: 
 
 
-
-:fire:  :fire:  :satellite:   :satellite:   :gun:    :gun:   :pushpin:   :pushpin:  :pencil2:   :pencil2:
+ :satellite:   :satellite:   :gun:    :gun:   :pushpin:   :pushpin:  :pencil2:   :pencil2:
 :closed_book:   :closed_book:  :book:    :book:  :warning:   :warning:  :books:   :books:   :hammer:   :wrench:
 
 
