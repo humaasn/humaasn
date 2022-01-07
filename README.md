@@ -1,11 +1,11 @@
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=200&section=header&text=Soilder%20Developer&fontSize=90&fontColor=A5915F)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=200&section=header&text=##Soilder%20Developer&fontSize=90&fontColor=A5915F)
   
 </div>
 
 <div align="center">
-  :gun:
+  :satellite:
   &nbsp;&nbsp;&nbsp;
   <span style=" font: italic bold 1.5em/1em Georgia, serif ; color: green;">
     <em>Tech Stack<em>
