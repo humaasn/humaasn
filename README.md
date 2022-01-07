@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=Soilder%20Coder&fontSize=90&fontColor=A5915F)
-:satellite:      Tech Stack     :satellite:
+                                     :satellite:Tech Stack:satellite:
 
 Techs that I've used at least once
 
