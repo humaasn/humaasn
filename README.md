@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=200&section=header&text=Soilder%20Coder&fontSize=90&fontColor=A5915F)
 <div align="center">
   :satellite:&nbsp;&nbsp;&nbsp;Tech Stack&nbsp;&nbsp;&nbsp;:satellite:
-</div>
+</div><br>
 <div align="center">
   Techs that I've used at least once
 <div><br>
