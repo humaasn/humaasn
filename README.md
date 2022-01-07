@@ -5,7 +5,11 @@
 </div>
 
 <div align="center">
-  :satellite:&nbsp;&nbsp;&nbsp;Tech Stack&nbsp;&nbsp;&nbsp;:satellite:
+  :satellite:
+  &nbsp;&nbsp;&nbsp;
+  <em>Tech Stack</em>
+  &nbsp;&nbsp;&nbsp;
+  :satellite:
 </div><br>
 <div align="center">
   Techs that I've used at least once
