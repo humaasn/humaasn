@@ -1,9 +1,6 @@
 <div align="center">
-  <u>
     
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=200&section=header&text=Soilder%20Developer&fontSize=90&fontColor=A5915F)
-  
-  </u>
   
 </div>
 
@@ -61,7 +58,7 @@
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
   
 
-## My Development history
+### My Development history
   :computer:
   :iphone:
   :mag_right:
