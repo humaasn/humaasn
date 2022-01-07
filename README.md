@@ -1,9 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=Soilder%20Coder&fontSize=90&fontColor=A5915F)
 
+Tech Stack 
+Techs that I've used at least once
 
- :satellite:   :satellite:   :gun:    :gun:   :pushpin:   :pushpin:  :pencil2:   :pencil2:
-:closed_book:   :closed_book:  :book:    :book:  :warning:   :warning:  :books:   :books:   :hammer:   :wrench:
-## 개발의도
 
 
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
@@ -29,6 +28,10 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+
+
+ :satellite:   :satellite:   :gun:    :gun:   :pushpin:   :pushpin:  :pencil2:   :pencil2:
+:closed_book:   :closed_book:  :book:    :book:  :warning:   :warning:  :books:   :books:   :hammer:   :wrench:
 
 
 
