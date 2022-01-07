@@ -2,9 +2,11 @@
 <div align="center">
   :satellite:Tech Stack:satellite:
 </div>
+<div align="center">
+  Techs that I've used at least once
+<div>
                                      
 
-Techs that I've used at least once
 
 
 
