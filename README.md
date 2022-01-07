@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=:fire: Soilder%20Coder:fire: &fontSize=90&fontColor=A5915F)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text= Soilder%20Coder&fontSize=90&fontColor=A5915F)
 
 
  :satellite:   :satellite:   :gun:    :gun:   :pushpin:   :pushpin:  :pencil2:   :pencil2:
