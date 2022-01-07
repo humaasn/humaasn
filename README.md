@@ -5,13 +5,7 @@
 </div>
 
 <div align="center">
-  :satellite:
-  &nbsp;&nbsp;&nbsp;
-  <span style=" font: italic bold 1.5em/1em Georgia, serif ; color: green;">
-    <em>Tech Stack<em>
-  </span>
-  &nbsp;&nbsp;&nbsp;
-  :satellite:
+    <p style="font-size:20px"> :satellite:&nbsp;&nbsp;&nbsp; Tech Stacks &nbsp;&nbsp;&nbsp;:satellite: </p>
 </div><br>
 <div align="center">
   Techs that I've used at least once
