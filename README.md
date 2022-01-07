@@ -8,7 +8,7 @@
   :satellite:
   &nbsp;&nbsp;&nbsp;
   <span style=" font: italic bold 1.5em/1em Georgia, serif ; color: green;">
-    Tech Stack
+    <em>Tech Stack<em>
   </span>
   &nbsp;&nbsp;&nbsp;
   :satellite:
