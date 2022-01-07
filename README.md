@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  :satellite:
+  :gun:
   &nbsp;&nbsp;&nbsp;
   <span style=" font: italic bold 1.5em/1em Georgia, serif ; color: green;">
     <em>Tech Stack<em>
