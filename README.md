@@ -12,7 +12,7 @@
     
   Techs that I've used at least once
     
-</h3></div><br>
+</h3></div>
 
 <div align="center"><h4>
     
@@ -73,7 +73,9 @@
 ![Miro](https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=Miro&logoColor=white)
   
 
-### Portfolio
+<div align="center"><h2>
+    :book:&nbsp;&nbsp;&nbsp; Portfolio &nbsp;&nbsp;&nbsp;:book: 
+</h2></div>
     
 
     
