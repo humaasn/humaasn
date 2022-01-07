@@ -1,6 +1,9 @@
 <div align="center">
+  
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=200&section=header&text=Soilder%20Coder&fontSize=90&fontColor=A5915F)
+  
 </div>
+
 <div align="center">
   :satellite:&nbsp;&nbsp;&nbsp;Tech Stack&nbsp;&nbsp;&nbsp;:satellite:
 </div><br>
