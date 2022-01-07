@@ -3,6 +3,7 @@
 
  :satellite:   :satellite:   :gun:    :gun:   :pushpin:   :pushpin:  :pencil2:   :pencil2:
 :closed_book:   :closed_book:  :book:    :book:  :warning:   :warning:  :books:   :books:   :hammer:   :wrench:
+## 개발의도
 
 
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
