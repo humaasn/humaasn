@@ -1,6 +1,7 @@
 <div align="center">
-  
-![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=200&section=header&text=##Soilder%20Developer&fontSize=90&fontColor=A5915F)
+  <u>
+![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=200&section=header&text=Soilder%20Developer&fontSize=90&fontColor=A5915F)
+  </u>
   
 </div>
 
