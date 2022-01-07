@@ -58,11 +58,8 @@
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
   
 
-### My Development history
-  :computer:
-    
-    <a href = https://github.com/humaasn/MVCPatternWeb> MVCPattern을 이용한 전자상거래 WebSite</a>
-    <2021.09.30> ~ <2021.10.13>
+### My Development history    
+    <a href = https://github.com/humaasn/MVCPatternWeb> :computer: MVCPattern을 이용한 전자상거래 WebSite <2021.10.10> ~ <2021.10.22> </a>
     
   :iphone:
     
@@ -70,7 +67,7 @@
     
   :mag_right:
     
-  :iphone:
+  :iphone: 
   
 
 
