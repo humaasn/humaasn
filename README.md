@@ -58,7 +58,13 @@
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
   
 
-## My Development history.
+## My Development history
+  :computer:
+  :iphone:
+  :mag_right:
+  :mag_right:
+  :iphone:
+  
 
 
 
