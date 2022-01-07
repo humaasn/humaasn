@@ -20,11 +20,7 @@
 
 
 
-:book: 
-  
-  <a href = https://github.com/humaasn/HeartDieasesApplication > Application Development </a>
-  
-:book:
+:book: Application Development :book:
   
 
   
