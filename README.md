@@ -1,6 +1,6 @@
 <div align="center">
     
-![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=100&section=header&text=Soilder%20Developer&fontSize=90&fontColor=A5915F)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=100&section=header&text=Solider%20Developer&fontSize=90&fontColor=A5915F)
   
 </div>
 
